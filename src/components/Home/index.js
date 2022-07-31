@@ -46,7 +46,7 @@ const Home = () => {
   }}
                     />
                 </h1>
-                 <Link to = '/contact' className="flat-button"> CONTACT ME </Link>
+                 <Link to = '/Yike-portfolio/about' className="flat-button"> CONTACT ME </Link>
             </div>
 
         </div>
