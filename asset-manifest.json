@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Yike-portfolio/static/css/main.d1133479.css",
-    "main.js": "/Yike-portfolio/static/js/main.fffb96c1.js",
+    "main.js": "/Yike-portfolio/static/js/main.b5575c2f.js",
     "static/js/787.a2cb61a6.chunk.js": "/Yike-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/sun.png": "/Yike-portfolio/static/media/sun.c14e408b37550a6556df.png",
     "static/media/helvetica-neu.ttf": "/Yike-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -9,11 +9,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/Yike-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Yike-portfolio/index.html",
     "main.d1133479.css.map": "/Yike-portfolio/static/css/main.d1133479.css.map",
-    "main.fffb96c1.js.map": "/Yike-portfolio/static/js/main.fffb96c1.js.map",
+    "main.b5575c2f.js.map": "/Yike-portfolio/static/js/main.b5575c2f.js.map",
     "787.a2cb61a6.chunk.js.map": "/Yike-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1133479.css",
-    "static/js/main.fffb96c1.js"
+    "static/js/main.b5575c2f.js"
   ]
 }
