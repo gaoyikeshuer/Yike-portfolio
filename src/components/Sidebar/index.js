@@ -19,10 +19,10 @@ const Sidebar = () => (
             <NavLink exact= "true" activeclassname = "active" className='about-link' to="/Yike-portfolio/about">
                 <FontAwesomeIcon icon ={faUser} color = '#4d4d4e' />
             </NavLink>
-            <NavLink exact= "true" activeclassname = "active" className='coding-link' to="/coding">
+            <NavLink exact= "true" activeclassname = "active" className='coding-link' to="/Yike-portfolio/coding">
                 <FontAwesomeIcon icon ={faCode} color = '#4d4d4e' />
             </NavLink>
-            <NavLink exact= "true" activeclassname = "active" className='design-link' to="/design">
+            <NavLink exact= "true" activeclassname = "active" className='design-link' to="/Yike-portfolio/design">
                 <FontAwesomeIcon icon ={faPaintbrush} color = '#4d4d4e' />
             </NavLink>
         </nav>
