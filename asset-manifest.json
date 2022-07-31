@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/Yike-portfolio/static/css/main.c4bd28af.css",
-    "main.js": "/Yike-portfolio/static/js/main.011706f8.js",
+    "main.css": "/Yike-portfolio/static/css/main.d1133479.css",
+    "main.js": "/Yike-portfolio/static/js/main.fffb96c1.js",
     "static/js/787.a2cb61a6.chunk.js": "/Yike-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/sun.png": "/Yike-portfolio/static/media/sun.c14e408b37550a6556df.png",
     "static/media/helvetica-neu.ttf": "/Yike-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/Yike-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/Yike-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "static/media/logo.svg": "/Yike-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Yike-portfolio/index.html",
-    "main.c4bd28af.css.map": "/Yike-portfolio/static/css/main.c4bd28af.css.map",
-    "main.011706f8.js.map": "/Yike-portfolio/static/js/main.011706f8.js.map",
+    "main.d1133479.css.map": "/Yike-portfolio/static/css/main.d1133479.css.map",
+    "main.fffb96c1.js.map": "/Yike-portfolio/static/js/main.fffb96c1.js.map",
     "787.a2cb61a6.chunk.js.map": "/Yike-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4bd28af.css",
-    "static/js/main.011706f8.js"
+    "static/css/main.d1133479.css",
+    "static/js/main.fffb96c1.js"
   ]
 }
