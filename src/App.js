@@ -11,6 +11,7 @@ function App() {
       <Route path ="/Yike-portfolio" element = {<Layout />}>
       <Route index element ={<Home />} /> 
       <Route path="/Yike-portfolio/about" element ={<About />} /> 
+      <Route path="/Yike-portfolio/painting" element ={<About />} /> 
       </Route>
 
     </Routes>
