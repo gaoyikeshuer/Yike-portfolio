@@ -4,7 +4,7 @@ import LogoS from '../../assets/pictures/sun.png'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faCode, faHome, faPaintbrush, faUser} from '@fortawesome/free-solid-svg-icons'
 import {faGithub, faLinkedin} from '@fortawesome/free-brands-svg-icons'
-
+//important: Navlink detect whether it is active according to the address of website
 const Sidebar = () => (
     <div className = 'nav-bar'>
         <Link className = 'Logo' to = '/'>
@@ -13,7 +13,7 @@ const Sidebar = () => (
         </Link>
 
         <nav>
-            <NavLink exact= "true" activeclassname = "active" to="/Yike-portfolio">
+            <NavLink exact= "true" activeclassname = "active" className='home-link' to="/Yike-portfolio/">
                 <FontAwesomeIcon icon ={faHome} color = '#4d4d4e' />
             </NavLink>
             <NavLink exact= "true" activeclassname = "active" className='about-link' to="/Yike-portfolio/about">

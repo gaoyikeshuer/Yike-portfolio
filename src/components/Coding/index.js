@@ -3,7 +3,7 @@ import './index.scss'
 const Coding = () => {
     return(
         <>
-        <div className='container coding-page'>
+        <div className='container about-page'>
 
         </div>
         </>

@@ -48,7 +48,7 @@ nav{
          }
          }
          &:after{
-            content: '';//disapeear?
+            content: 'm';//disapeear?
             font-size: 9px;
             letter-spacing: 2px;
             position: absolute;
@@ -60,11 +60,13 @@ nav{
             transition: all 0.3s ease-out;
        
            }
-           &:first-child{
-               &:after{
-                   content: 'Home';
-               }
-           }
+     
+    }
+
+    a.home-link{
+        &:after{
+            content: 'Home';
+        }
     }
    a.about-link{
        &:after{
@@ -84,7 +86,8 @@ nav{
   
   a.active{
       svg{
-          color: #ffd700;
+        color: white;
+        //   color: #ffd700;
       }
   }
 }
