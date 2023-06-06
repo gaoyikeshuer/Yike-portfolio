@@ -38,7 +38,7 @@ const Design = () => {
                 overflow: 'hidden'}}>
          <button onClick={() => imgAction()} style={{position:'absolute', top:'10px', right:'10px'}}>X</button>
          <button onClick={()=> imgAction('previous-img')}>Previous</button>
-         <img src= {data.img} alt='' style = {{width:'auto', maxWidth: '90%', maxHeight: '90%'}}/>
+         <img src= {data.img} alt='' style = {{width:'300px', maxHeight: '90%'}}/>
          <button onClick={()=> imgAction('next-img')}>Next</button>
         </div>
         }
